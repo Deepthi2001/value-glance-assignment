@@ -10,3 +10,6 @@ Currently, two official plugins are available:
 # Steps to run the project locally
 - npm install
 - npm run dev
+
+# Productionn Deployment using vercel
+https://value-glance-assignment-nine.vercel.app/
